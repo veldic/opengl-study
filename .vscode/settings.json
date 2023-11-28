@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/Users/veldic/.pyenv/shims/python",
+    "files.associations": {
+        "iostream": "cpp",
+        "ios": "cpp",
+        "queue": "cpp"
+    }
+}
